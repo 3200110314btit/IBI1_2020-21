@@ -1,4 +1,12 @@
-
-I like talk radio
-I like snow
-I like biscuits
+I like 1
+I like 2
+I like 3
+I like 4
+I like 5
+I don't like game
+I like soccer
+I like family
+I like study
+I like sleep
+I like eat
+I like biology
