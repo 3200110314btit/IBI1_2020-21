@@ -4,5 +4,5 @@ n=84
 for i in range(1,6):
     n=n+r*n
     print(n)
-print("n = 84*2.2**5")
+print("n = 84*(1+r)**5")
 
