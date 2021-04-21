@@ -1,0 +1,6 @@
+the	percentage of identical	amino acids	for human and mouse is 89.68609865470853 and alignment score 1091.
+the	percentage of identical	amino acids	for human and randomseq is 5.829596412556054 and alignment score -250.
+the	percentage of identical	amino acids	for randomseq and mouse is 6.278026905829597 and alignment score -250.
+the bigger percentage of these two species are, the more similar of these two species are.
+and the score higher, these two species are more similar
+Thus, the amino of human and mouse is huge similar. The mouse and human are hugely differed with randomseq and Highly evolved.
