@@ -16,6 +16,5 @@ while p==False:
 	p = True
 	n = randint(1,100)
 	if n > 50:
-		p = False
-
+		p = False#make sure 0<n<50
 print(n)
