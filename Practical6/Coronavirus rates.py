@@ -9,4 +9,5 @@ explode = (0,0,0,0,0)
 #To make it no interval in the circle
 plt.pie(sizes,explode=explode,labels=labels,autopct='%1.1f%%',shadow=False,startangle=90)
 plt.axis('equal')
+plt.title('Coronavirus rates ')
 plt.show()
